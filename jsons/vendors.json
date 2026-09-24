@@ -1,0 +1,231 @@
+[
+  {
+    "id": "VEN-MX-001",
+    "name": "El Trompo Rojo",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "isOpenNow": true,
+    "averagePriceEur": 6.5,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-MX-001_El-Trompo-Rojo.jpeg?raw=true",
+    "sinceYear": 1998,
+    "specialty": "Tacos al Pastor"
+  },
+  {
+    "id": "VEN-MX-002",
+    "name": "Mercado Taquería Norte",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "isOpenNow": false,
+    "averagePriceEur": 5.8,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-MX-002_Mercado-Taqueria-Norte.jpeg?raw=true",
+    "sinceYear": 2006,
+    "specialty": "Street Tacos"
+  },
+
+  {
+    "id": "VEN-TH-001",
+    "name": "Bangkok Wok Express",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "isOpenNow": true,
+    "averagePriceEur": 5.0,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-TH-001_Bangkok-Wok-Express.jpeg?raw=true",
+    "sinceYear": 2007,
+    "specialty": "Pad Thai"
+  },
+  {
+    "id": "VEN-TH-002",
+    "name": "Chatuchak Sweet Corner",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "isOpenNow": true,
+    "averagePriceEur": 3.2,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-TH-002_Chatuchak-Sweet-Corner.jpeg?raw=true",
+    "sinceYear": 2012,
+    "specialty": "Mango Sticky Rice"
+  },
+
+  {
+    "id": "VEN-VN-001",
+    "name": "Saigon Bánh Mì Corner",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "isOpenNow": false,
+    "averagePriceEur": 3.8,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-VN-001_Saigon-Banh-Mi-Corner.jpeg?raw=true",
+    "sinceYear": 2014,
+    "specialty": "Bánh Mì"
+  },
+  {
+    "id": "VEN-VN-002",
+    "name": "Hanoi Street Bowl",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "isOpenNow": true,
+    "averagePriceEur": 4.2,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-VN-002_Hanoi-Street-Bowl.jpeg?raw=true",
+    "sinceYear": 2009,
+    "specialty": "Street Bowls"
+  },
+
+  {
+    "id": "VEN-BE-001",
+    "name": "Waffle Wagon Liège",
+    "city": "Liège",
+    "country": "Belgium",
+    "isOpenNow": true,
+    "averagePriceEur": 4.5,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-BE-001_Waffle-Wagon-Liege.jpeg?raw=true",
+    "sinceYear": 2003,
+    "specialty": "Liège Waffle"
+  },
+  {
+    "id": "VEN-BE-002",
+    "name": "Brussels Frites Cart",
+    "city": "Brussels",
+    "country": "Belgium",
+    "isOpenNow": false,
+    "averagePriceEur": 4.0,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-BE-002_Brussels-Frites-Cart.jpeg?raw=true",
+    "sinceYear": 1842,
+    "specialty": "Belgian Fries"
+  },
+
+  {
+    "id": "VEN-LB-001",
+    "name": "Beirut Falafel House",
+    "city": "Beirut",
+    "country": "Lebanon",
+    "isOpenNow": true,
+    "averagePriceEur": 4.2,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-LB-001_Beirut-Falafel-House.jpeg?raw=true",
+    "sinceYear": 1989,
+    "specialty": "Falafel Wrap"
+  },
+  {
+    "id": "VEN-LB-002",
+    "name": "Tripoli Tahini Stand",
+    "city": "Tripoli",
+    "country": "Lebanon",
+    "isOpenNow": true,
+    "averagePriceEur": 3.9,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-LB-002_Tripoli-Tahini-Stand.jpeg?raw=true",
+    "sinceYear": 1996,
+    "specialty": "Falafel & Mezze"
+  },
+
+  {
+    "id": "VEN-JM-001",
+    "name": "Kingston Jerk Stop",
+    "city": "Kingston",
+    "country": "Jamaica",
+    "isOpenNow": true,
+    "averagePriceEur": 7.0,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-JM-001_Kingston-Jerk-Stop.jpeg?raw=true",
+    "sinceYear": 2004,
+    "specialty": "Jerk Chicken Skewers"
+  },
+  {
+    "id": "VEN-JM-002",
+    "name": "Montego Bay Grill Shack",
+    "city": "Montego Bay",
+    "country": "Jamaica",
+    "isOpenNow": false,
+    "averagePriceEur": 6.6,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-JM-002_Montego-Bay-Grill-Shack.jpeg?raw=true",
+    "sinceYear": 2010,
+    "specialty": "Spiced Skewers"
+  },
+
+  {
+    "id": "VEN-PH-001",
+    "name": "Manila Night Market Eats",
+    "city": "Manila",
+    "country": "Philippines",
+    "isOpenNow": true,
+    "averagePriceEur": 3.5,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-PH-001_Manila-Night-Market-Eats.jpeg?raw=true",
+    "sinceYear": 2011,
+    "specialty": "Chicken Adobo"
+  },
+  {
+    "id": "VEN-PH-002",
+    "name": "Cebu Street Grill",
+    "city": "Cebu City",
+    "country": "Philippines",
+    "isOpenNow": false,
+    "averagePriceEur": 3.0,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-PH-002_Cebu-Street-Grill.jpeg?raw=true",
+    "sinceYear": 2017,
+    "specialty": "Street Snacks"
+  },
+
+  {
+    "id": "VEN-KR-001",
+    "name": "Seoul Bowl Station",
+    "city": "Seoul",
+    "country": "South Korea",
+    "isOpenNow": true,
+    "averagePriceEur": 7.5,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-KR-001_Seoul-Bowl-Station.jpeg?raw=true",
+    "sinceYear": 1990,
+    "specialty": "Bibimbap"
+  },
+  {
+    "id": "VEN-KR-002",
+    "name": "Busan Market Bites",
+    "city": "Busan",
+    "country": "South Korea",
+    "isOpenNow": true,
+    "averagePriceEur": 6.9,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-KR-002_Busan-Market-Bites.jpeg?raw=true",
+    "sinceYear": 2000,
+    "specialty": "Korean Street Bowls"
+  },
+
+  {
+    "id": "VEN-JP-001",
+    "name": "Osaka Octopus Ball Stand",
+    "city": "Osaka",
+    "country": "Japan",
+    "isOpenNow": true,
+    "averagePriceEur": 6.2,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-JP-001_Osaka-Octopus-Ball-Stand.jpeg?raw=true",
+    "sinceYear": 1998,
+    "specialty": "Takoyaki"
+  },
+  {
+    "id": "VEN-JP-002",
+    "name": "Tokyo Night Snack Alley",
+    "city": "Tokyo",
+    "country": "Japan",
+    "isOpenNow": false,
+    "averagePriceEur": 6.8,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-JP-002_Tokyo-Night-Snack-Alley.jpeg?raw=true",
+    "sinceYear": 2015,
+    "specialty": "Street Snacks"
+  },
+
+  {
+    "id": "VEN-VE-001",
+    "name": "Caracas Arepa Grill",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "isOpenNow": true,
+    "averagePriceEur": 4.6,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-VE-001_Caracas-Arepa-Grill.jpeg?raw=true",
+    "sinceYear": 1999,
+    "specialty": "Arepas"
+  },
+  {
+    "id": "VEN-VE-002",
+    "name": "Maracaibo Corn Kitchen",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "isOpenNow": false,
+    "averagePriceEur": 4.2,
+    "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-VE-002_Maracaibo-Corn-Kitchen.jpeg?raw=true",
+    "sinceYear": 2008,
+    "specialty": "Corn Street Foods"
+  }
+]
