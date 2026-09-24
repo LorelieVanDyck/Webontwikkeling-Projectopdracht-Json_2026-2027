@@ -1,0 +1,9 @@
+{
+  "features": {
+    "ghcr.io/devcontainers-extra/features/ts-node:1": {
+      "version": "1.0.2",
+      "resolved": "ghcr.io/devcontainers-extra/features/ts-node@sha256:f5882fbf39d63424c151918e15a6cf3f3b302036256338718f414dfc488a0e6f",
+      "integrity": "sha256:f5882fbf39d63424c151918e15a6cf3f3b302036256338718f414dfc488a0e6f"
+    }
+  }
+}
