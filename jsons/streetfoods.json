@@ -8,7 +8,7 @@
     "firstServedDate": "1998-03-14",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-001_Tacos-al-Pastor.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€",
+    "priceTier": "€€",
     "tags": ["Bevat vlees", "Gegrild", "Streetfood klassieker", "Snelle hap"],
     "vendor": {
       "id": "VEN-MX-001",
@@ -83,7 +83,7 @@
     "firstServedDate": "2003-04-26",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-004_Liege-Waffle.jpeg?raw=true",
     "category": "Zoet",
-    "priceTier": "€",
+    "priceTier": "€€",
     "tags": ["Vegetarisch", "Gekaramelliseerde suiker", "Dessert", "Handheld"],
     "vendor": {
       "id": "VEN-BE-001",
@@ -108,7 +108,7 @@
     "firstServedDate": "1989-11-04",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-005_Falafel-Wrap.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€",
+    "priceTier": "€€",
     "tags": ["Vegan", "Gefrituurd", "Tahini", "Eiwitrijk"],
     "vendor": {
       "id": "VEN-LB-001",
@@ -133,7 +133,7 @@
     "firstServedDate": "2004-07-17",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-006_Jerk-Chicken-Skewers.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€€",
+    "priceTier": "€€€€",
     "tags": ["Gegrild", "Pittig", "Bevat vlees", "Rokerig"],
     "vendor": {
       "id": "VEN-JM-001",
@@ -158,7 +158,7 @@
     "firstServedDate": "1998-10-03",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-007_Takoyaki.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€",
+    "priceTier": "€€",
     "tags": ["Zeevruchten", "Snack", "Saus", "Umami"],
     "vendor": {
       "id": "VEN-JP-001",
@@ -183,7 +183,7 @@
     "firstServedDate": "1962-05-12",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-008_Belgian-Fries.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€€",
+    "priceTier": "€€€",
     "tags": ["Vegetarisch", "Krokant", "Streetfood klassieker", "Saus"],
     "vendor": {
       "id": "VEN-BE-002",
@@ -208,7 +208,7 @@
     "firstServedDate": "1999-02-08",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-009_Arepas.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€",
+    "priceTier": "€€",
     "tags": ["Glutenvrij", "Maïs", "Handheld", "Customizable"],
     "vendor": {
       "id": "VEN-VE-001",
@@ -233,7 +233,7 @@
     "firstServedDate": "2012-12-01",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-010_Mango-Sticky-Rice.jpeg?raw=true",
     "category": "Zoet",
-    "priceTier": "€",
+    "priceTier": "€€",
     "tags": ["Vegetarisch", "Kokosnoot", "Tropisch", "Dessert"],
     "vendor": {
       "id": "VEN-TH-002",
@@ -358,7 +358,7 @@
     "firstServedDate": "1990-03-31",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-015_Bibimbap.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€€",
+    "priceTier": "€€€",
     "tags": ["Rice-bowl", "Groenten", "Gochujang", "Comfortfood"],
     "vendor": {
       "id": "VEN-KR-001",
@@ -383,7 +383,7 @@
     "firstServedDate": "2006-11-11",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-016_Street-Tacos.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€",
+    "priceTier": "€€",
     "tags": ["Bevat vlees", "Handheld", "Salsa", "Snelle hap"],
     "vendor": {
       "id": "VEN-MX-002",
@@ -433,7 +433,7 @@
     "firstServedDate": "1996-06-29",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-018_Tahini-Mezze-Plate.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€",
+    "priceTier": "€€",
     "tags": ["Vegetarische optie", "Mezze", "Dip", "Om te delen"],
     "vendor": {
       "id": "VEN-LB-002",
@@ -458,7 +458,7 @@
     "firstServedDate": "2010-12-04",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-019_Spiced-Skewers.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€€",
+    "priceTier": "€€€€",
     "tags": ["Gegrild", "Gekruid", "Streetfoodsnack", "Bevat vlees"],
     "vendor": {
       "id": "VEN-JM-002",
@@ -483,7 +483,7 @@
     "firstServedDate": "2000-09-09",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-020_Korean-Street-Bowl.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€€",
+    "priceTier": "€€€",
     "tags": ["Rice-bowl", "Marktsnack", "Comfortfood", "Saus"],
     "vendor": {
       "id": "VEN-KR-002",
