@@ -6,7 +6,7 @@
     "spiceLevel": 3,
     "isPopular": true,
     "firstServedDate": "1998-03-14",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-001_Tacos-al-Pastor.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-001_Tacos-al-Pastor.jpeg",
     "category": "Hartig",
     "priceTier": "€€",
     "tags": ["Bevat vlees", "Gegrild", "Streetfood klassieker", "Snelle hap"],
@@ -19,7 +19,7 @@
       "averagePriceEur": 3.72,
       "averagePriceLocal": 80,
       "currency": "MXN",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-MX-001_El-Trompo-Rojo.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-MX-001_El-Trompo-Rojo.jpeg",
       "sinceYear": 1998,
       "specialty": "Tacos al Pastor"
     }
@@ -31,7 +31,7 @@
     "spiceLevel": 2,
     "isPopular": true,
     "firstServedDate": "2007-06-02",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-002_Pad-Thai.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-002_Pad-Thai.jpeg",
     "category": "Hartig",
     "priceTier": "€",
     "tags": ["Uit de wok", "Pinda’s", "Zoetzuur", "Glutenvrije optie"],
@@ -44,7 +44,7 @@
       "averagePriceEur": 1.84,
       "averagePriceLocal": 70,
       "currency": "THB",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-TH-001_Bangkok-Wok-Express.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-TH-001_Bangkok-Wok-Express.jpeg",
       "sinceYear": 2007,
       "specialty": "Pad Thai"
     }
@@ -56,7 +56,7 @@
     "spiceLevel": 2,
     "isPopular": true,
     "firstServedDate": "2014-09-21",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-003_Banh-Mi.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-003_Banh-Mi.jpeg",
     "category": "Hartig",
     "priceTier": "€",
     "tags": ["Sandwich", "Bevat vlees", "Verse kruiden", "Krokant"],
@@ -69,7 +69,7 @@
       "averagePriceEur": 0.98,
       "averagePriceLocal": 30000,
       "currency": "VND",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-VN-001_Saigon-Banh-Mi-Corner.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-VN-001_Saigon-Banh-Mi-Corner.jpeg",
       "sinceYear": 2014,
       "specialty": "Bánh Mì"
     }
@@ -81,7 +81,7 @@
     "spiceLevel": 0,
     "isPopular": true,
     "firstServedDate": "2003-04-26",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-004_Liege-Waffle.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-004_Liege-Waffle.jpeg",
     "category": "Zoet",
     "priceTier": "€€",
     "tags": ["Vegetarisch", "Gekaramelliseerde suiker", "Dessert", "Handheld"],
@@ -94,7 +94,7 @@
       "averagePriceEur": 3.50,
       "averagePriceLocal": 3.50,
       "currency": "EUR",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-BE-001_Waffle-Wagon-Liege.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-BE-001_Waffle-Wagon-Liege.jpeg",
       "sinceYear": 2003,
       "specialty": "Liège Waffle"
     }
@@ -106,7 +106,7 @@
     "spiceLevel": 1,
     "isPopular": true,
     "firstServedDate": "1989-11-04",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-005_Falafel-Wrap.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-005_Falafel-Wrap.jpeg",
     "category": "Hartig",
     "priceTier": "€€",
     "tags": ["Vegan", "Gefrituurd", "Tahini", "Eiwitrijk"],
@@ -119,7 +119,7 @@
       "averagePriceEur": 2.88,
       "averagePriceLocal": 300000,
       "currency": "LBP",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-LB-001_Beirut-Falafel-House.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-LB-001_Beirut-Falafel-House.jpeg",
       "sinceYear": 1989,
       "specialty": "Falafel Wrap"
     }
@@ -131,7 +131,7 @@
     "spiceLevel": 4,
     "isPopular": true,
     "firstServedDate": "2004-07-17",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-006_Jerk-Chicken-Skewers.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-006_Jerk-Chicken-Skewers.jpeg",
     "category": "Hartig",
     "priceTier": "€€€€",
     "tags": ["Gegrild", "Pittig", "Bevat vlees", "Rokerig"],
@@ -144,7 +144,7 @@
       "averagePriceEur": 6.04,
       "averagePriceLocal": 1100,
       "currency": "JMD",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-JM-001_Kingston-Jerk-Stop.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-JM-001_Kingston-Jerk-Stop.jpeg",
       "sinceYear": 2004,
       "specialty": "Jerk Chicken Skewers"
     }
@@ -156,7 +156,7 @@
     "spiceLevel": 1,
     "isPopular": false,
     "firstServedDate": "1998-10-03",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-007_Takoyaki.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-007_Takoyaki.jpeg",
     "category": "Hartig",
     "priceTier": "€€",
     "tags": ["Zeevruchten", "Snack", "Saus", "Umami"],
@@ -169,7 +169,7 @@
       "averagePriceEur": 3.49,
       "averagePriceLocal": 600,
       "currency": "JPY",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-JP-001_Osaka-Octopus-Ball-Stand.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-JP-001_Osaka-Octopus-Ball-Stand.jpeg",
       "sinceYear": 1998,
       "specialty": "Takoyaki"
     }
@@ -181,7 +181,7 @@
     "spiceLevel": 0,
     "isPopular": true,
     "firstServedDate": "1962-05-12",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-008_Belgian-Fries.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-008_Belgian-Fries.jpeg",
     "category": "Hartig",
     "priceTier": "€€€",
     "tags": ["Vegetarisch", "Krokant", "Streetfood klassieker", "Saus"],
@@ -194,7 +194,7 @@
       "averagePriceEur": 5.00,
       "averagePriceLocal": 5.00,
       "currency": "EUR",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-BE-002_Brussels-Frites-Cart.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-BE-002_Brussels-Frites-Cart.jpeg",
       "sinceYear": 1962,
       "specialty": "Belgian Fries"
     }
@@ -206,7 +206,7 @@
     "spiceLevel": 1,
     "isPopular": false,
     "firstServedDate": "1999-02-08",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-009_Arepas.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-009_Arepas.jpeg",
     "category": "Hartig",
     "priceTier": "€€",
     "tags": ["Glutenvrij", "Maïs", "Handheld", "Customizable"],
@@ -219,7 +219,7 @@
       "averagePriceEur": 2.59,
       "averagePriceLocal": 3.00,
       "currency": "USD",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-VE-001_Caracas-Arepa-Grill.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-VE-001_Caracas-Arepa-Grill.jpeg",
       "sinceYear": 1999,
       "specialty": "Arepas"
     }
@@ -231,7 +231,7 @@
     "spiceLevel": 0,
     "isPopular": true,
     "firstServedDate": "2012-12-01",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-010_Mango-Sticky-Rice.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-010_Mango-Sticky-Rice.jpeg",
     "category": "Zoet",
     "priceTier": "€€",
     "tags": ["Vegetarisch", "Kokosnoot", "Tropisch", "Dessert"],
@@ -244,7 +244,7 @@
       "averagePriceEur": 2.63,
       "averagePriceLocal": 100,
       "currency": "THB",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-TH-002_Chatuchak-Sweet-Corner.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-TH-002_Chatuchak-Sweet-Corner.jpeg",
       "sinceYear": 2012,
       "specialty": "Mango Sticky Rice"
     }
@@ -256,7 +256,7 @@
     "spiceLevel": 0,
     "isPopular": false,
     "firstServedDate": "2017-08-19",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-011_Balut.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-011_Balut.jpeg",
     "category": "Hartig",
     "priceTier": "€",
     "tags": ["Streetfood-uitdaging", "Traditioneel", "Night-market", "Eiwitrijk"],
@@ -269,7 +269,7 @@
       "averagePriceEur": 0.91,
       "averagePriceLocal": 60,
       "currency": "PHP",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-PH-002_Cebu-Street-Grill.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-PH-002_Cebu-Street-Grill.jpeg",
       "sinceYear": 2017,
       "specialty": "Street Snacks"
     }
@@ -281,7 +281,7 @@
     "spiceLevel": 1,
     "isPopular": true,
     "firstServedDate": "2011-05-27",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-012_Chicken-Adobo.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-012_Chicken-Adobo.jpeg",
     "category": "Hartig",
     "priceTier": "€",
     "tags": ["Bevat vlees", "Knoflook", "Comfortfood", "Past goed bij rijst"],
@@ -294,7 +294,7 @@
       "averagePriceEur": 1.82,
       "averagePriceLocal": 120,
       "currency": "PHP",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-PH-001_Manila-Night-Market-Eats.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-PH-001_Manila-Night-Market-Eats.jpeg",
       "sinceYear": 2011,
       "specialty": "Chicken Adobo"
     }
@@ -306,7 +306,7 @@
     "spiceLevel": 1,
     "isPopular": true,
     "firstServedDate": "2013-07-06",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-013_Sinigang.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-013_Sinigang.jpeg",
     "category": "Zuur",
     "priceTier": "€",
     "tags": ["Zuur", "Soep", "Tamarinde", "Comfortfood"],
@@ -319,7 +319,7 @@
       "averagePriceEur": 1.82,
       "averagePriceLocal": 120,
       "currency": "PHP",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-PH-001_Manila-Night-Market-Eats.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-PH-001_Manila-Night-Market-Eats.jpeg",
       "sinceYear": 2011,
       "specialty": "Chicken Adobo"
     }
@@ -331,7 +331,7 @@
     "spiceLevel": 0,
     "isPopular": true,
     "firstServedDate": "2018-04-14",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-014_Halo-Halo.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-014_Halo-Halo.jpeg",
     "category": "Zoet",
     "priceTier": "€",
     "tags": ["Dessert", "Verfrissend", "Kleurrijk", "Zomer"],
@@ -344,7 +344,7 @@
       "averagePriceEur": 0.91,
       "averagePriceLocal": 60,
       "currency": "PHP",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-PH-002_Cebu-Street-Grill.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-PH-002_Cebu-Street-Grill.jpeg",
       "sinceYear": 2017,
       "specialty": "Street Snacks"
     }
@@ -356,7 +356,7 @@
     "spiceLevel": 2,
     "isPopular": true,
     "firstServedDate": "1990-03-31",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-015_Bibimbap.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-015_Bibimbap.jpeg",
     "category": "Hartig",
     "priceTier": "€€€",
     "tags": ["Rice-bowl", "Groenten", "Gochujang", "Comfortfood"],
@@ -369,7 +369,7 @@
       "averagePriceEur": 5.63,
       "averagePriceLocal": 9000,
       "currency": "KRW",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-KR-001_Seoul-Bowl-Station.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-KR-001_Seoul-Bowl-Station.jpeg",
       "sinceYear": 1990,
       "specialty": "Bibimbap"
     }
@@ -381,7 +381,7 @@
     "spiceLevel": 3,
     "isPopular": true,
     "firstServedDate": "2006-11-11",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-016_Street-Tacos.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-016_Street-Tacos.jpeg",
     "category": "Hartig",
     "priceTier": "€€",
     "tags": ["Bevat vlees", "Handheld", "Salsa", "Snelle hap"],
@@ -394,7 +394,7 @@
       "averagePriceEur": 3.26,
       "averagePriceLocal": 70,
       "currency": "MXN",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-MX-002_Mercado-Taqueria-Norte.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-MX-002_Mercado-Taqueria-Norte.jpeg",
       "sinceYear": 2006,
       "specialty": "Street Tacos"
     }
@@ -406,7 +406,7 @@
     "spiceLevel": 2,
     "isPopular": true,
     "firstServedDate": "2009-01-23",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-017_Pho-Street-Bowl.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-017_Pho-Street-Bowl.jpeg",
     "category": "Hartig",
     "priceTier": "€",
     "tags": ["Soep", "Noedels", "Kruiden", "Comfortfood"],
@@ -419,7 +419,7 @@
       "averagePriceEur": 1.64,
       "averagePriceLocal": 50000,
       "currency": "VND",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-VN-002_Hanoi-Street-Bowl.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-VN-002_Hanoi-Street-Bowl.jpeg",
       "sinceYear": 2009,
       "specialty": "Street Bowls"
     }
@@ -431,7 +431,7 @@
     "spiceLevel": 1,
     "isPopular": true,
     "firstServedDate": "1996-06-29",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-018_Tahini-Mezze-Plate.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-018_Tahini-Mezze-Plate.jpeg",
     "category": "Hartig",
     "priceTier": "€€",
     "tags": ["Vegetarische optie", "Mezze", "Dip", "Om te delen"],
@@ -444,7 +444,7 @@
       "averagePriceEur": 3.85,
       "averagePriceLocal": 400000,
       "currency": "LBP",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-LB-002_Tripoli-Tahini-Stand.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-LB-002_Tripoli-Tahini-Stand.jpeg",
       "sinceYear": 1996,
       "specialty": "Falafel & Mezze"
     }
@@ -456,7 +456,7 @@
     "spiceLevel": 3,
     "isPopular": true,
     "firstServedDate": "2010-12-04",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-019_Spiced-Skewers.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-019_Spiced-Skewers.jpeg",
     "category": "Hartig",
     "priceTier": "€€€€",
     "tags": ["Gegrild", "Gekruid", "Streetfoodsnack", "Bevat vlees"],
@@ -469,7 +469,7 @@
       "averagePriceEur": 7.14,
       "averagePriceLocal": 1300,
       "currency": "JMD",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-JM-002_Montego-Bay-Grill-Shack.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-JM-002_Montego-Bay-Grill-Shack.jpeg",
       "sinceYear": 2010,
       "specialty": "Spiced Skewers"
     }
@@ -481,7 +481,7 @@
     "spiceLevel": 2,
     "isPopular": true,
     "firstServedDate": "2000-09-09",
-    "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-020_Korean-Street-Bowl.jpeg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/streetfoods/FOOD-020_Korean-Street-Bowl.jpeg",
     "category": "Hartig",
     "priceTier": "€€€",
     "tags": ["Rice-bowl", "Marktsnack", "Comfortfood", "Saus"],
@@ -494,7 +494,7 @@
       "averagePriceEur": 5.00,
       "averagePriceLocal": 8000,
       "currency": "KRW",
-      "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-KR-002_Busan-Market-Bites.jpeg?raw=true",
+      "standImageUrl": "https://raw.githubusercontent.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/main/assets/vendors/VEN-KR-002_Busan-Market-Bites.jpeg",
       "sinceYear": 2000,
       "specialty": "Korean Street Bowls"
     }
