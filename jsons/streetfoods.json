@@ -8,7 +8,7 @@
     "firstServedDate": "1966-04-12",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-001_Tacos-al-Pastor.jpeg?raw=true",
     "category": "Hartig",
-    "priceTier": "€",
+    "priceTier": "€€",
     "tags": ["Bevat vlees", "Gegrild", "Streetfood klassieker", "Snelle hap"],
     "vendor": {
       "id": "VEN-MX-001",
@@ -179,7 +179,7 @@
       "isOpenNow": false,
       "averagePriceEur": 4.0,
       "standImageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/vendors/VEN-BE-002_Brussels-Frites-Cart.jpeg?raw=true",
-      "sinceYear": 1842,
+      "sinceYear": 1962,
       "specialty": "Belgian Fries"
     }
   },
@@ -209,7 +209,7 @@
   {
     "id": "FOOD-010",
     "name": "Mango Sticky Rice",
-    "description": "Zoete kleefrijst met kokos, geserveerd met rijpe mango. Een klassieke streetfooddessert dat tropisch, romig en tegelijk verfrissend smaakt.",
+    "description": "Zoete kleefrijst met kokos, geserveerd met rijpe mango. Een klassiek streetfooddessert dat tropisch, romig en tegelijk verfrissend smaakt.",
     "spiceLevel": 0,
     "isPopular": true,
     "firstServedDate": "1975-07-30",
@@ -370,8 +370,7 @@
   {
     "id": "FOOD-017",
     "name": "Pho Street Bowl",
-    "description": "Een geurige Vietnamese noedelsoep met rundvlees of kip, verse kruiden, limoen en chili. Stoomend heet geserveerd op drukke straatmarkten in Hanoi.",
-    "spiceLevel": 2,
+    "description": "Een geurige Vietnamese noedelsoep met rundvlees of kip, verse kruiden, limoen en chili. Stomend heet geserveerd op drukke straatmarkten in Hanoi.",    "spiceLevel": 2,
     "isPopular": true,
     "firstServedDate": "1930-01-01",
     "imageUrl": "https://github.com/LorelieVanDyck/Webontwikkeling-Projectopdracht-Json_2026-2027/blob/main/assets/streetfoods/FOOD-017_Pho-Street-Bowl.jpeg?raw=true",
